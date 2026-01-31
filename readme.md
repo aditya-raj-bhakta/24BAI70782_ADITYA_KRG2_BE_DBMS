@@ -1,8 +1,8 @@
 ```markdown
-
 <!-- Dynamic Gaming Header -->
 <div align="center">
-  <img src="https://kimi-web-img.moonshot.cn/prod-data/online-image/search-upload/05df873812d68f87" width="100%" alt="Retro Gaming Setup Loop"/>
+  <!-- REPLACE THIS URL WITH YOUR OWN HOSTED IMAGE -->
+  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="Retro Gaming Setup Loop"/>
   
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Raj+Bhakta;BE+Student+%40+Chandigarh+University;Coder+%7C+Gamer+%7C+Creator;Welcome+to+my+GitHub!;printf(%22Hello+World%22);" alt="Typing Animation" />
 </div>
@@ -136,5 +136,4 @@ Guild: Open Source Contributors
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=0d1117&animation=twinkling"/>
   
 </div>
-
 ```
