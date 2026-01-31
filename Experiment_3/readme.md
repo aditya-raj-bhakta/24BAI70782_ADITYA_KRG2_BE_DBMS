@@ -80,5 +80,5 @@ END $$;
 
 ### Step 1 and 2 Output
 
-<img width="1123" height="379" alt="image" src="" />
+<img width="1123" height="379" alt="image" src="https://github.com/aditya-raj-bhakta/24BAI70782_ADITYA_KRG2_BE_DBMS/blob/main/Experiment_3/screenshots/image.png" />
 
