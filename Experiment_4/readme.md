@@ -139,7 +139,7 @@ This experiment provided hands-on experience with conditional control statements
 
 ### **SCREENSHOTS***
 
-<img width="1025" height="747" alt="Screenshot 2026-01-31 102827" src="https://github.com/user-attachments/assets/38c1a7fc-54e4-423f-b2dd-9e5f9aecfbe7" />
-<img width="1015" height="869" alt="Screenshot 2026-01-31 102915" src="https://github.com/user-attachments/assets/94cb9f4b-628d-44d0-a3ed-e8f1bc5533a0" />
-<img width="1036" height="870" alt="Screenshot 2026-01-31 102959" src="https://github.com/user-attachments/assets/20aa6a3e-de50-4a9d-a9f8-aa5a11423ad4" />
-<img width="1038" height="873" alt="Screenshot 2026-01-31 103113" src="https://github.com/user-attachments/assets/9fed92b4-ceaa-4159-abd5-a0662d508f1f" />
+<img width="1025" height="747" alt="Screenshot 2026-01-31 102827" src="https://github.com/aditya-raj-bhakta/24BAI70782_ADITYA_KRG2_BE_DBMS/blob/main/Experiment_4/screenshots/image.png" />
+<img width="1015" height="869" alt="Screenshot 2026-01-31 102915" src="https://github.com/aditya-raj-bhakta/24BAI70782_ADITYA_KRG2_BE_DBMS/blob/main/Experiment_4/screenshots/image%20copy.png" />
+<img width="1036" height="870" alt="Screenshot 2026-01-31 102959" src="https://github.com/aditya-raj-bhakta/24BAI70782_ADITYA_KRG2_BE_DBMS/blob/main/Experiment_4/screenshots/image%20copy%203.png" />
+<img width="1038" height="873" alt="Screenshot 2026-01-31 103113" src="https://github.com/aditya-raj-bhakta/24BAI70782_ADITYA_KRG2_BE_DBMS/blob/main/Experiment_4/screenshots/image%20copy%202.png" />
